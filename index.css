@@ -1,0 +1,66 @@
+.conetendofooter {
+    background: #2196F3;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    color: white;
+    font-style: italic;
+
+}
+
+.titulofooter {
+    font-style: italic;
+    font-weight: 700;
+    margin-bottom: 17px;
+    font-size: 21px;
+    margin-top: 19px;
+}
+
+input.inputcorreo {
+    width: 100%;
+    margin-top: 4px;
+    margin-bottom: 8px;
+    background: black;
+    border: solid 1px #ebebeb;
+    border-radius: 8px;
+    height: 35px;
+    padding-left: 10px;
+    color: white;
+}
+
+.btncontinuar {
+    width: 100%;
+    background: white;
+    color: black;
+}
+
+.espacio {
+    height: 56px;
+}
+
+div#seccion1 {
+    padding-top: 28px;
+    padding-bottom: 16px;
+}
+div#seccion2 {
+    padding-top: 28px;
+    padding-bottom: 16px;
+}
+
+
+#cuerpopagina{
+    background: #ebedfc;
+}
+
+.tituloseccion {
+    font-style: italic;
+    font-size: 24px;
+    margin-bottom: 21px;
+    font-weight: 700;
+    color: #e858ee;
+}
+
+.contenidoseccion {
+    color: #4777d7;
+    font-weight: 500;
+    font-style: italic;
+}
